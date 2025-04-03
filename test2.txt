@@ -6,3 +6,4 @@
  git add 
  git comit -m
  git push 
+ git pull 
