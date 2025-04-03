@@ -1,0 +1,8 @@
+ 
+
+
+ insert->add-> commit -> push
+
+ git add 
+ git comit -m
+ git push 
